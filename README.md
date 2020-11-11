@@ -16,3 +16,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## Notebook Project
+
+[Google Colab](https://colab.research.google.com/drive/1SLeEP_hUhCpFfJieXf00CdZKat50OVfm?usp=sharing)
